@@ -29,7 +29,7 @@ Here you’ll find the full mathematical details and model specifications:
 2. **Bayesian Hierarchical Regression**  
    breakout_index_i ~ Normal(mu_i, sigma)
 
-mu_i = alpha_team[i]
+    mu_i = alpha_team[i]
       + beta_age       * Age_i
       + beta_elo       * ELO_i
       + beta_PrgC      * PrgC_i
@@ -49,7 +49,7 @@ mu_i = alpha_team[i]
 ---
 
 ## Article  
-Corresponding article can be found at:  
+The corresponding article can be found at:  
 https://your-substack-link.com/bayesian-breakouts  
 
 ---
