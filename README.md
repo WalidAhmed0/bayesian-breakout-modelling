@@ -50,6 +50,6 @@ Here you’ll find the full mathematical details and model specifications:
 
 ## Article  
 The corresponding article can be found at:  
-https://your-substack-link.com/bayesian-breakouts  
+[https://your-substack-link.com/bayesian-breakouts](https://underthelights.substack.com/p/predicting-breakout-forwards-with)  
 
 ---
