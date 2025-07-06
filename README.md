@@ -1,7 +1,7 @@
-# Bayesian Breakout Prediction for U21 Forwards
+# Bayesian Breakout Prediction for Young Forwards
 
 **Brief Description**  
-Analysis to forecast 2025 breakout stars among young forwards in the Premier League and Championship, using a weighted **Breakout Index** and a **Bayesian hierarchical regression** with partial pooling.
+Analysis to forecast 2025 breakout stars among young (U24) forwards in the Premier League and Championship, using a weighted **Breakout Index** and a **Bayesian hierarchical regression** with partial pooling.
 
 ---
 
